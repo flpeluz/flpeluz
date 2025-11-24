@@ -12,7 +12,7 @@ Automatizações, pequenos aplicativos, programas de treino, cálculos de zonas 
 🔹 Evolução real
 Repositórios que mostram minha jornada: erros, acertos, aprendizado e progresso contínuo.
 
-🔹 Construção de um super app de treino.
+🔹 Construção de um aplicativo de treino.
 
 Por também ser estudante de Educação Física, 
 Meu objetivo final é unir treino, nutrição, produtividade e tecnologia em um único aplicativo — e o GitHub será o lugar onde tudo isso vai nascer.
