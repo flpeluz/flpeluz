@@ -1,8 +1,8 @@
 Felipe Luz — @flpeluz
-Criador, Estudante de Engenharia de Software e Educação Física.
+Criador, Estudante de Engenharia de Software.
 
 Me chamo Felipe.
-Atualmente estudo Engenharia de Software e Educação Física, e uso meu GitHub para documentar minha evolução como programador — do zero até o desenvolvimento de apps reais.
+Atualmente estudo Engenharia de Software e uso meu GitHub para documentar minha evolução como programador — do zero até o desenvolvimento de apps reais.
 
 O que você vai encontrar por aqui
 
@@ -12,7 +12,8 @@ Automatizações, pequenos aplicativos, programas de treino, cálculos de zonas 
 🔹 Evolução real
 Repositórios que mostram minha jornada: erros, acertos, aprendizado e progresso contínuo.
 
-🔹 Construção de um super app fitness
+🔹 Construção de um super app de treino.
+Por também ser estudante de Educação Física, 
 Meu objetivo final é unir treino, nutrição, produtividade e tecnologia em um único aplicativo — e o GitHub será o lugar onde tudo isso vai nascer.
 
 Tecnologias que estou estudando
